@@ -14,7 +14,9 @@ You can also open .frag files directly in [The_Force](https://shawnlawson.github
 
 # Generating GIFs from .frag files
 
-* If you're on a mac you can use quicktime to make a screen recording of the shader running. 
+* Toggle The_Force text editor off with CTRL+SHIFT.
+* Try enabling audio input, some of the .frags are audio reactive!
+* Make a screen recording (tested: Quicktime on Mac, [ShareX](https://getsharex.com/) on Win, [OBS](https://obsproject.com/) is cross platform but takes some setup).
 * Upload your screen recording to [ezgif](https://ezgif.com/video-to-gif). 
 * Play with the length of the gif and frame rate until you capture the essence of the animation. Generally, the less frames and the shorter time the better, since in the end you want a gif <1mb in size. 
 * If you wind up with a larger file, time to optimize the gif! It depends on the content, but ezgif has options to reduce the number of colors, the dimensions of the gif, or the compression applied to the gif. Experiment until you're happy 🤓

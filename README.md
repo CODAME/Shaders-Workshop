@@ -12,11 +12,14 @@ You can also open .frag files directly in [The_Force](https://shawnlawson.github
 
 ![How to load frag in the force](how-to-load-frag-in-theforce.jpg)
 
-# Generating GIFs from .frag files
-
+# Capturing videos from .frag files
 * Toggle The_Force text editor off with CTRL+SHIFT.
-* Try enabling audio input, some of the .frags are audio reactive!
+* If the .frag code has `.bands` in it, click the microphone icone and load some music to see it being audio reactive!
 * Make a screen recording (tested: Quicktime on Mac, [ShareX](https://getsharex.com/) on Win, [OBS](https://obsproject.com/) is cross platform but takes some setup).
+* Name the video recording the same as the .frag file for easy sorting.
+* Upload the individual vidoes to Google Drive for highest resolution and Google Photos for the Codame Social team to pull from (reach out to team@codame.com if you don't have access). 
+
+# Generating GIFs from videos
 * Upload your screen recording to [ezgif](https://ezgif.com/video-to-gif). 
 * Play with the length of the gif and frame rate until you capture the essence of the animation. Generally, the less frames and the shorter time the better, since in the end you want a gif <1mb in size. 
 * If you wind up with a larger file, time to optimize the gif! It depends on the content, but ezgif has options to reduce the number of colors, the dimensions of the gif, or the compression applied to the gif. Experiment until you're happy 🤓

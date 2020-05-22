@@ -24,4 +24,4 @@ You can also open .frag files directly in [The_Force](https://shawnlawson.github
 * Play with the length of the gif and frame rate until you capture the essence of the animation. Generally, the less frames and the shorter time the better, since in the end you want a gif <1mb in size. 
 * If you wind up with a larger file, time to optimize the gif! It depends on the content, but ezgif has options to reduce the number of colors, the dimensions of the gif, or the compression applied to the gif. Experiment until you're happy 🤓
 
-![Example from ezgif](the_force_2020_4M_21D_10H_36m_13s%20-%20Jordan%20Gray.frag.gif)
+![Example from ezgif](./2020-04-02_Fundamentals/the_force_2020_4M_21D_10H_36m_13s%20-%20Jordan%20Gray.frag.gif)
